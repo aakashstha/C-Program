@@ -56,4 +56,4 @@
 
 #### If your are not like me and want to remove this warning then simply navigate to the main funciton and replace "void" with "int" and also set "return 0" at the end of the main function.
 
-#### Happy C coding/!! 🙃
+### Happy C coding/!! 🙃
