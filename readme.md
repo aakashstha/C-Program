@@ -3,6 +3,7 @@
 ## To complete this task the knowledge of mathematics, C-Programming and Concurrency is used.
 <hr>
 <br>
+
 1. This project consist of 4 task which is written in C-programming language.
 2. To run this task you need to have gcc c compiler install in your machine.
 3. If you are running on macOS then installing X-Code makes it lot easier and you will get pre install gcc compiler.
