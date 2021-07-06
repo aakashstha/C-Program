@@ -9,7 +9,6 @@
 4. After installing gcc compiler and downloading this project. Navigate to this file using Terminal or Command Prompt. After that visit which task you want to run from down below.
 5. In my case I had used Visual Studio Code (VS-Code in short) and its integrated Terminal to run all my tasks.
 <hr>
-<br>
 
 ## For running this project.
 1. For Task-1
@@ -26,7 +25,6 @@
     * ./xyz4
 
 <hr>
-<br>
 
 ## Extra Information and some warning/!!
 
