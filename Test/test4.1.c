@@ -1,7 +1,6 @@
 // 1 Blur
 #include <stdio.h>
 #include <stdlib.h>
-#include <pthread.h>
 #include <unistd.h>
 #include "lodepng.h"
 
@@ -10,7 +9,7 @@ unsigned char *Image;
 unsigned int width, height, error, encError;
 unsigned int r = 0, g = 0, b = 0;
 int count = 0;
-void processImage()
+void processImage() 
 {
     error = lodepng_decode32_file(&Image, &width, &height, "imag1.png");
     if (error)

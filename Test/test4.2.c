@@ -1,7 +1,6 @@
 // 2 Blur
 #include <stdio.h>
 #include <stdlib.h>
-#include <pthread.h>
 #include <unistd.h>
 #include "lodepng.h"
 
@@ -41,7 +40,7 @@ void RGB_SumDivide(int j, int d)
 
 void processImage()
 {
-    error = lodepng_decode32_file(&ImageIn, &width, &height, "imag2.png");
+    error = lodepng_decode32_file(&ImageIn, &width, &height, "imag1.png");
     if (error)
     {
         printf("%d %s", error, lodepng_error_text(error));

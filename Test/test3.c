@@ -3,7 +3,7 @@
 // prime
 void main()
 {
-    FILE *file = fopen("primeData1.txt", "r");
+    FILE *file = fopen("../Data/primeData1.txt", "r");
     int a;
     int isPrime;
     int count = 0;
