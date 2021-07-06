@@ -1,7 +1,6 @@
 # This task is based on Numerical Methods and Concurrency.
 
 ## To complete this task the knowledge of mathematics, C-Programming and Concurrency is used.
-<hr>
 <br>
 
 1. This project consist of 4 task which is written in C-programming language.
@@ -12,7 +11,7 @@
 <hr>
 <br>
 
-## For running all this project.
+## For running this project.
 1. For Task-1
     * From the CLI type = gcc task1.c -o xyz1
     * ./xyz1
@@ -26,13 +25,12 @@
     * From the CLI type = gcc lodepng.c task4.c -o xyz4 -pthread
     * ./xyz4
 
-<br>
 <hr>
+<br>
 
 ## Extra Information and some warning/!!
-<br>
 
-### <u> gcc lodepng.c filename -o xyz -pthread </u>
+### <strong> gcc lodepng.c filename -o xyz -pthread </strong>
 * gcc is a c compiler which converts c language to machine readable language.
 * next in task-4 we have used lodepng.c which is a third-party library to import/export png image and as well to manipulate them.
 * now filename which in our case is task1 and so on.
