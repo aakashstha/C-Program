@@ -1,4 +1,9 @@
 # This task is based on Numerical Methods and Concurrency.
+## Content 
+1. Task-1: Linear Regression
+2. Task-2: Calculating Pi using Leibniz formula and multithreading
+3. Task-3: Finding prime numbers from multiple text files using multithreading
+4. Task-4: Gaussian Blur with multithreading   
 
 ## To complete this task the knowledge of mathematics, C-Programming and Concurrency is used.
 <br>
