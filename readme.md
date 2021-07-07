@@ -5,7 +5,7 @@
 3. Task-3: Finding prime numbers from multiple text files using multithreading
 4. Task-4: Gaussian Blur with multithreading   
 
-## To complete this task the knowledge of mathematics, C-Programming and Concurrency is used.
+## To complete this task the knowledge of Mathematics, C-Programming and Concurrency is used.
 <br>
 
 1. This project consist of 4 task which is written in C-programming language.
@@ -41,7 +41,7 @@
 * then we have xyz is the compiled file of the task. 
 * -phread is used for multithreading in c.
 
-#### If you see some warning like the down below then do not worry because it is simple warning which is saying to change the entry level main function return type from void to int. Here I don't like to change because I always keep main function return type to void for simplicity.
+#### In most of the case you will not encounter any error but if you run into some warning like the down below then do not worry because it is simple warning which is saying to change the entry level main function return type from void to int. Here I don't like to change because I always keep main function return type to void for simplicity.
 <br>
 <pre>
     task1.c:76:1: warning: return type of 'main' is not 'int' [-Wmain-return-type]
