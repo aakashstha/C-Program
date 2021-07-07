@@ -35,9 +35,9 @@
 
 ### gcc lodepng.c filename -o xyz -pthread 
 * gcc is a c compiler which converts c language to machine readable language.
-* next in task-4 we have used lodepng.c which is a third-party library to import/export png image and as well to manipulate them.
+* next in task-4 we had used lodepng.c which is a third-party library used for decoding and encoding png files also used to manipulate them.
 * now filename which in our case is task1 and so on.
-* next we have -o which is used to output object file in c.
+* next we have -o which is used to output object file in c which is also a executable file in c.
 * then we have xyz is the compiled file of the task. 
 * -phread is used for multithreading in c.
 
