@@ -12,7 +12,7 @@
 2. To run this task you need to have gcc c compiler install in your machine.
 3. If you are running on macOS then installing X-Code makes it lot easier and you will get pre install gcc compiler.
 4. After installing gcc compiler and downloading this project. Navigate to this file using Terminal or Command Prompt. After that visit which task you want to run from down below.
-5. In my case I had used Visual Studio Code (VS-Code in short) and its integrated Terminal to run all my tasks.
+5. In my case I had used Visual Studio Code (VS-Code in short) and its integrated Terminal to run all my tasks which makes it lot easier for me.
 <hr>
 
 ## For running this project.
