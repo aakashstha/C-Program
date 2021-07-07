@@ -33,7 +33,7 @@
 
 ## Extra Information and some warning/!!
 
-### <strong> gcc lodepng.c filename -o xyz -pthread </strong>
+### gcc lodepng.c filename -o xyz -pthread 
 * gcc is a c compiler which converts c language to machine readable language.
 * next in task-4 we have used lodepng.c which is a third-party library to import/export png image and as well to manipulate them.
 * now filename which in our case is task1 and so on.
