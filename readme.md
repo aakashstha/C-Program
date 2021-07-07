@@ -1,5 +1,5 @@
 # This task is based on Numerical Methods and Concurrency.
-## Content 
+## Content
 1. Task-1: Linear Regression
 2. Task-2: Calculating Pi using Leibniz formula and multithreading
 3. Task-3: Finding prime numbers from multiple text files using multithreading
@@ -29,7 +29,7 @@
     * From the CLI type = gcc lodepng.c task4.c -o xyz4 -pthread
     * ./xyz4
 
-<hr>
+<hr> 
 
 ## Extra Information and some warning/!!
 
