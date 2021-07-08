@@ -29,6 +29,34 @@
     * From the CLI type = gcc lodepng.c task4.c -o xyz4 -pthread
     * ./xyz4
 
+### Output
+1. #### The console will generate the equation and to input new value of x to predict y value, and if you input 55 then the program will predict something like 173.379029 :- 
+    <pre>
+    The equation of a straight line is y = -0.070252x + 177.242871
+    Enter the new value of x to predicit the value of y:
+    55
+    Your new predicted value of y is = 173.379029
+    </pre>
+
+2. #### The console will ask you to input iteration for loop and next in how many threads you want to run this loop after placing both value you can see the output like down below.
+    <pre>
+    How many times you want to loop through this Leibniz formula to get precise value of Pi:
+    10000
+    How many threads you would like to use to solve this problem:
+    8
+
+    The final value of Pi = 3.141692
+    </pre>
+
+3. #### Check NewPrimeOnly.txt file that has been generated after compiling task3.c
+
+4. #### Check WOW_Image.png file that has been generated after compiling task4.c
+#### Image input 
+<img src="Data/image.png">
+
+#### Image output after compiling.
+<img src="WOW_Image.png">
+
 <hr> 
 
 ## Extra Information and some warning/!!
@@ -54,6 +82,6 @@
     1 warning generated.
 </pre>
 
-#### If your are not like me and want to remove this warning then simply navigate to the main funciton and replace "void" with "int" and also set "return 0" at the end of the main function.
+#### If your really want to remove this warning then simply navigate to the main funciton and replace "void" with "int" and also set "return 0" at the end of the main function.
 
 ### Happy C coding/!! 🙃
