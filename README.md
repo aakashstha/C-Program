@@ -54,7 +54,8 @@
 #### Image input 
 <img src="Data/image.png">
 
-#### Image output after compiling.
+#### Image output after running task4.c
+#### You can notice the difference that output image is little blurry than the input one.
 <img src="WOW_Image.png">
 
 <hr> 
